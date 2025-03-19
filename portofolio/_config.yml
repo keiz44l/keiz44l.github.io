@@ -1,8 +1,8 @@
 # Site settings
 title: "keiz44l"
 bye_message: "Thx!"
-baseurl: "/"
-url: "/"
+baseurl: "/portofolio"  # Change this if it's a project site
+url: "https://keiz44l.github.io"
 disqus: keiz44l
 
 # Header settings
